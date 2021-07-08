@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-15T16:56:26 IST" name="Suite" finished-at="2021-06-15T16:56:38 IST" duration-ms="11586">
+    <groups>
+    </groups>
+    <test started-at="2021-06-15T16:56:26 IST" name="Test" finished-at="2021-06-15T16:56:38 IST" duration-ms="11586">
+      <class name="Yatra.base">
+        <test-method signature="initalizeDriver()[pri:0, instance:Yatra.base@609db43b]" started-at="2021-06-15T16:56:27 IST" name="initalizeDriver" finished-at="2021-06-15T16:56:38 IST" duration-ms="11461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalizeDriver -->
+      </class> <!-- Yatra.base -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
